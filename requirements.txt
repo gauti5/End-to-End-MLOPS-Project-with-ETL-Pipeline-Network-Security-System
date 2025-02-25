@@ -1,0 +1,9 @@
+python-dotenv
+pandas 
+numpy 
+matplotlib
+pymongo
+certifi
+
+
+# -e . # refers to setup.py and executes entire code
