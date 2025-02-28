@@ -4,6 +4,7 @@ numpy
 matplotlib
 pymongo
 certifi
+scikit-learn
 
 
 # -e . # refers to setup.py and executes entire code
