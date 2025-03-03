@@ -5,6 +5,7 @@ matplotlib
 pymongo
 certifi
 scikit-learn
-
+dill
+pyaml
 
 # -e . # refers to setup.py and executes entire code
