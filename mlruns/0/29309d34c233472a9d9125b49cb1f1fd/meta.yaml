@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/siddanthapusandeep/Data%20Science/Projects/End-to-End-MLOPS-Project-with-ETL-Pipeline-Network-Security-System-/mlruns/0/29309d34c233472a9d9125b49cb1f1fd/artifacts
+end_time: 1741205451173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29309d34c233472a9d9125b49cb1f1fd
+run_name: casual-horse-943
+run_uuid: 29309d34c233472a9d9125b49cb1f1fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741205448383
+status: 3
+tags: []
+user_id: siddanthapusandeep

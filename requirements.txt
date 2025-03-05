@@ -7,5 +7,6 @@ certifi
 scikit-learn
 dill
 pyaml
+mlflow
 
 # -e . # refers to setup.py and executes entire code

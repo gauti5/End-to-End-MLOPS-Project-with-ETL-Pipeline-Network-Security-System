@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/siddanthapusandeep/Data%20Science/Projects/End-to-End-MLOPS-Project-with-ETL-Pipeline-Network-Security-System-/mlruns/0/efffe2365baa4263bafd4688d4cd32f7/artifacts
+end_time: 1741205452755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efffe2365baa4263bafd4688d4cd32f7
+run_name: brawny-whale-508
+run_uuid: efffe2365baa4263bafd4688d4cd32f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741205451200
+status: 3
+tags: []
+user_id: siddanthapusandeep
