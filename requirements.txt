@@ -8,5 +8,6 @@ scikit-learn
 dill
 pyaml
 mlflow
+dagshub
 
 # -e . # refers to setup.py and executes entire code

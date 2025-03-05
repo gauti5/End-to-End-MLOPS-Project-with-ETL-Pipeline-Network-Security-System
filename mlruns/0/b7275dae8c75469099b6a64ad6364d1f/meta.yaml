@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/siddanthapusandeep/Data%20Science/Projects/End-to-End-MLOPS-Project-with-ETL-Pipeline-Network-Security-System-/mlruns/0/b7275dae8c75469099b6a64ad6364d1f/artifacts
+end_time: 1741207292103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7275dae8c75469099b6a64ad6364d1f
+run_name: receptive-stag-361
+run_uuid: b7275dae8c75469099b6a64ad6364d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741207289642
+status: 3
+tags: []
+user_id: siddanthapusandeep

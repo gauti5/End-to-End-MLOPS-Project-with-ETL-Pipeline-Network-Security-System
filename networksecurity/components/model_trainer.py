@@ -20,6 +20,8 @@ from sklearn.tree import DecisionTreeClassifier
 
 import mlflow
 
+import dagshub
+dagshub.init(repo_owner='sndpgauti', repo_name='End-to-End-MLOPS-Project-with-ETL-Pipeline-Network-Security-System-', mlflow=True)
 
 class ModelTrainer:
     def __init__(self, model_trainer_config: ModelTrainerConfig, data_transformation_artifact: DataTransformationArtifact):
