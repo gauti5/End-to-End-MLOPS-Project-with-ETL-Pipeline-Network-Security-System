@@ -4,9 +4,9 @@ This project aims to create a robust pipeline for detecting phishing websites us
 
 ## Components
 
-Data Ingestion
-Data Validation
-Data Transformation
-Model Training
-Model Deployment
-CI/CD Pipeline
+> Data Ingestion
+> Data Validation
+> Data Transformation
+> Model Training
+> Model Deployment
+> CI/CD Pipeline
