@@ -34,7 +34,7 @@ This project aims to create a robust pipeline for detecting phishing websites us
 
 # Dagshub Interface
 
-<img width="1409" alt="Screenshot 2025-03-07 at 10 42 03 PM" src="https://github.com/user-attachments/assets/01d02681-8a6a-4597-aa79-880ac3b96581" />
+<img width="1419" alt="Screenshot 2025-03-07 at 10 50 39 PM" src="https://github.com/user-attachments/assets/96fd856a-8174-4a24-8d75-bcd6d474eb99" />
 
 # MLflow Interface
 
